@@ -2,4 +2,4 @@
 
 
 run:
-	poetry run uvicorn src.app:app --reload
+	poetry run uvicorn app.main:app --reload
